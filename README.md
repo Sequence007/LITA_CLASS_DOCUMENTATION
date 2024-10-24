@@ -25,6 +25,10 @@ The primary source of data used here is data Sale-csv and this is an open source
     3. For Visualization
 -  SQL- Structured Query Language for querying of data
 -  Github for portfolio building
+-  MIcrosoft POWER BI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+    1. For Connecting Disparate Data Sets
+    2. For Transforming and Cleaning Data into a Data Model
+    3. For Creating Charts or Graphs to Provide Visuals of the Data
   
 ### Data Cleaning and Preparation
 ---
